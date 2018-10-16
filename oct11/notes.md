@@ -1,0 +1,3 @@
+- strncpy() - bouded copy
+- strncomp() - bounded compare
+- strncat() - bounded append
